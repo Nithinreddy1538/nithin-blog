@@ -15,6 +15,8 @@ A simple, responsive web application that fetches and displays user data from th
 ---
 ##Demo
 
+https://nithinreddy1538.github.io/nithin-blog/
+
 ## 🛠️ Tech Stack
 
 - **HTML5** – Semantic structure  
@@ -25,8 +27,6 @@ A simple, responsive web application that fetches and displays user data from th
 ---
 
 ## 📁 Project Structure
-https://nithinreddy1538.github.io/nithin-blog/
-
 
 📦 user-data-fetcher/
 ├── index.html # Main HTML file
