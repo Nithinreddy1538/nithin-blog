@@ -25,6 +25,8 @@ A simple, responsive web application that fetches and displays user data from th
 ---
 
 ## 📁 Project Structure
+https://nithinreddy1538.github.io/nithin-blog/
+
 
 📦 user-data-fetcher/
 ├── index.html # Main HTML file
@@ -32,26 +34,3 @@ A simple, responsive web application that fetches and displays user data from th
 ├── script.js # App logic
 └── README.md # Project documentation
 
-yaml
-Copy code
-
----
-
-## 🧑‍💻 How to Run
-
-### 🖥️ Option 1: Open in Browser
-1. Download or clone the project.
-2. Open `index.html` in any browser.
-3. The app will fetch and display user data automatically.
-
-### ⚙️ Option 2: Run with Local Server
-
-Using Python:
-
-```bash
-python -m http.server 8000
-Using Node.js (if installed):
-
-bash
-Copy code
-npx serve .
